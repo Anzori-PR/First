@@ -1,0 +1,228 @@
+*{
+    font-family: sans-serif;
+}
+span{
+    color: rgb(26, 26, 155);
+}
+.line{
+    width: 40px;
+    border-bottom: 5px solid rgb(26, 26, 155);
+    border-radius: 5px;
+    margin: auto;
+}
+h2{
+    color: gray;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+/* Bigdiv*/ 
+
+.bigdiv{
+    display: flex;
+    margin-top: 50px;
+    margin-left: -32px;
+    justify-content: center;
+}
+.div1{
+    background-color: rgb(26, 26, 155);
+    width: 280px;
+    height: 290px;
+    border-radius: 10px;
+    margin-left: 30px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.div2{
+    background-color: white;
+    width: 280px;
+    height: 290px;
+    border-radius: 10px;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.div3{
+    background-color: rgb(255, 255, 255);
+    width: 280px;
+    height: 290px;
+    border-radius: 10px;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.div4{
+    background-color: rgb(255, 255, 255);
+    width: 280px;
+    height: 290px;
+    border-radius: 10px;
+    margin-left: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+/* indiv */
+
+.photodiv{
+    display: flex;
+}
+.txt{
+    padding-top: 34px;
+    line-height: 23px;
+}
+.div1 .txt p{
+    color: gray;
+    margin-left: 21px;
+}
+.txt h3{
+    margin-left: 20px;
+}
+.div1 p{
+    color: rgb(39, 38, 38);
+    padding-left: 22px;
+    font-size: 15px;
+    margin-bottom: 37px;
+}
+.txt p{
+    margin: 0;
+    padding: 0;
+    margin-left: 21px;
+}
+.div1 h3{
+    margin-left: 20px;
+    margin-bottom: 88px;
+}
+.div1 a{
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white;
+    
+}
+
+
+.photodiv{
+    display: flex;
+}
+.photodiv img{
+    width: 50px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.txt{
+    padding-top: 34px;
+    padding-left: 0px;
+    line-height: 23px;
+}
+.txt h3{
+    margin: 0;
+}
+.div2 p{
+    color: rgb(39, 38, 38);
+    padding-left: 20px;
+    font-size: 15px;
+    margin-bottom: 37px;
+}
+.txt p{
+    margin: 0;
+    padding: 0;
+    margin-left: 21px;
+}
+.div2 h3{
+    margin-left: 20px;
+}
+.div2 a{
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+/* div3 */
+.photodiv{
+    display: flex;
+}
+.photodiv img{
+    width: 50px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.txt{
+    padding-top: 34px;
+    padding-left: 0px;
+    line-height: 23px;
+}
+.div3 p{
+    color: rgb(39, 38, 38);
+    padding-left: 20px;
+    font-size: 15px;
+    margin-bottom: 37px;
+}
+.txt p{
+    margin: 0;
+    padding: 0;
+    margin-left: 21px;
+}
+.div3 h3{
+    margin-left: 20px;
+}
+.div3 a{
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+ /*   div4  */
+.photodiv{
+    display: flex;
+}
+.photodiv img{
+    width: 50px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.txt{
+    padding-top: 34px;
+    padding-left: 0px;
+    line-height: 23px;
+}
+.txt h3{
+    margin-left: 20px;
+}
+.div4 p{
+    color: rgb(39, 38, 38);
+    padding-left: 20px;
+    font-size: 15px;
+    margin-bottom: 37px;
+}
+.txt p{
+    margin: 0;
+    padding: 0;
+    margin-left: 20px;
+}
+.div4 h3{
+    margin-left: 20px;
+}
+.div4 a{
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+
+.button1{
+    border: 2px solid rgb(26, 26, 155);
+    border-radius: 50px;
+    width: 180px;
+    height: 40px;
+    margin: auto;
+    margin-top: 90px;
+}
+.button1 h1{
+    font-size: medium;
+    color: rgb(26, 26, 155);
+}
